@@ -11,6 +11,7 @@
 		<module>ybspWeb</module>
 		<module>ybspOrder</module>
 		<module>ybspUser</module>
+		<module>ybspSecurity</module>
 	</modules>
 
 	<parent>
